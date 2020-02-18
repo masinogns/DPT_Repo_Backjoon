@@ -28,5 +28,5 @@ class TddTest(unittest.TestCase):
         self.assertEqual(result, 55)
 
 if __name__=='__main__':
-#    unittest.main()
-    func_main()
+    unittest.main()
+#    func_main()
